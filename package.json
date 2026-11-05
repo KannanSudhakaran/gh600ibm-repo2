@@ -1,0 +1,12 @@
+{
+  "name": "gh600-hello-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app greeting GH600 IBM folks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
